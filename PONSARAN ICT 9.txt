@@ -1,0 +1,42 @@
+<html>
+<head> 
+<title> PONSARAN </title>
+</head>
+<body style= "background-color:Black;">
+
+
+<h1 style="font-family: Lucida Console; text-align:center;"> 
+<font color="#f2cf33" size="6">
+MY EXPERIENCE ON THE 1ST DAY OF CLASS
+</font>
+</h1>
+
+<img src="mirror pic before school.jpg" alt="(mirror pic before school)" style="width:250; height:300;" class="center" >
+<br>
+<audio controls>
+<source src= "Still Alive (Instrumental).mp3" type="audio/mpeg">
+(insert music here)
+</audio>
+
+<pre>
+<p style="font-family:Lucida Console; text-align:justify;">
+<font color="#f2cf33"> 
+The first day of Grade 9.
+
+I was nervous, which I guess is a normal thing, but at the same time excited to get to know my new classmates and teachers 
+and make new memories this school year. When I first entered the classroom that morning, it was empty and quiet, but the silence
+soon shifted to joyful chatter as more of my classmates filled the vacant seats. 
+A while later, Ms. Dancal, our advisor, entered the room and greeted us, thus beginning the long hours of sitting and 
+listening to class orientations. Note that I only stated 'long', not 'boring'. And I can thank all the friendly subject
+teachers I met as well as my enthusiastic classmates making the rest of the school day much more tolerable and engaging, despite
+waking up before the crack of dawn a few hours ago. 
+The day ended before I knew it, and as I reflected on its events I knew I'd be just fine.
+
+New life, new home. I could get used to this, actually.
+
+</font>
+</p>
+</pre>
+
+</body>
+</html>
